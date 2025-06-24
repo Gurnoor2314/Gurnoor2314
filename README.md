@@ -5,7 +5,6 @@
 🧠 Aspiring AI/ML Engineer  
 🌱 Currently exploring Data Science & Machine Learning  
 📚 Passionate about building smart solutions using tech  
-🌍 Future goal: MS/PR in Australia  
 
 ---
 
