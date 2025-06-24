@@ -1,4 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Gurnoor Singh
+
+🎓 B.Tech CSE student at CGC Landran  
+💻 Python & Pandas Learner  
+🧠 Aspiring AI/ML Engineer  
+🌱 Currently exploring Data Science & Machine Learning  
+📚 Passionate about building smart solutions using tech  
+🌍 Future goal: MS/PR in Australia  
+
+---
+
+### 🛠️ Skills & Tools
+- **Languages:** Python  
+- **Libraries:** Pandas(Learning: numpy,Scikit-learn, TensorFlow)  
+- **Tools:**  VS Code  
+- **Domains:** Data Analysis, Machine Learning  
+
+---
+
+🚀 I’m working on building projects and sharing my journey here on GitHub!
 
 <!--
 **Gurnoor2314/Gurnoor2314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
