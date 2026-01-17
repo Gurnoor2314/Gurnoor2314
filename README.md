@@ -10,7 +10,7 @@
 
 ### 🛠️ Skills & Tools
 - **Languages:** Python  
-- **Libraries:** Pandas(Learning: numpy,Scikit-learn, TensorFlow)  
+- **Libraries:** Pandas, numpy, matplotlib (Learning: Scikit-learn, TensorFlow)  
 - **Tools:**  VS Code  
 - **Domains:** Data Analysis, Machine Learning  
 
